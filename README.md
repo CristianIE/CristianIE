@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola, soy Cristian 👋
 
-<!--
-**CristianIE/CristianIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Ingeniero Agrónomo. en formación para convertirme en Analista de datos**
 
-Here are some ideas to get you started:
+- 📍 Latacunga, Ecuador
+- 💼 Consultor independiente; Técnico de Consultoría Rural
+- 🎯 Analizar datos para la innovación de estrategias en proyectos de desarrollo rural
+- 🛠️ Excel · Power BI · SQL · Python · IA para análisis
+- 📫 www.linkedin.com/in/cf-izaespin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos
+
+| Proyecto | Pregunta de negocio |
+|Analisis de cafeterías|(https://github.com/CristianIE/proyecto_cafeter-as_quito)|¿Las ventas están estables?
+
+*Formándome en la ruta Data Analyst Expert de Ciencia de Datos Ecuador.*
