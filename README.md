@@ -12,5 +12,5 @@
 
 | Proyecto | Pregunta de negocio |
 |Analisis de cafeterías|(https://github.com/CristianIE/proyecto_cafeter-as_quito)|¿Las ventas están estables?
-
+|.......||.......|
 *Formándome en la ruta Data Analyst Expert de Ciencia de Datos Ecuador.*
